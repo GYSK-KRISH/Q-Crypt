@@ -1,0 +1,6 @@
+Trial,Total_Qubits,Eve_Status,Noise_Level,Matching_Bases,Sifted_Key_Len,Test_Bits,Errors,QBER,QBER_Percentage,Candidate_Key_Len,Status
+1,50,OFF,LOW,24,24,7,0,0.0000,0.00%,17,PASSED
+2,50,OFF,LOW,26,26,8,1,0.1250,12.50%,18,ABORTED
+3,50,OFF,LOW,24,24,7,0,0.0000,0.00%,17,PASSED
+4,50,OFF,LOW,22,22,7,0,0.0000,0.00%,15,PASSED
+5,50,OFF,LOW,28,28,9,0,0.0000,0.00%,19,PASSED

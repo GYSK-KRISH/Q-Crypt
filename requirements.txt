@@ -1,0 +1,16 @@
+# ==========================================================
+# Q-Crypt: BB84 Quantum Key Distribution Simulator
+# Python Dependencies (Kept minimal and easy to understand)
+# ==========================================================
+
+# Quantum computing SDK (circuit building and quantum state manipulation)
+qiskit>=1.0.0
+
+# High-performance quantum simulator backend for Qiskit
+qiskit-aer>=0.14.0
+
+# Core numerical computing library (arrays, random bit generation)
+numpy>=1.24.0
+
+# Plotting and visualization library (for error graphs and simulation results)
+matplotlib>=3.7.0
